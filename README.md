@@ -1,16 +1,16 @@
 # Car Finder 🚗🔍
 -	Elemento Select de años.
--	Lectura de Elemento Select
--	Filtro de campos por marca, año, precio, puertas,
--	Listar resultados según filtro.
--	Mostrar mensaje cuando no hay resultados según filtro.
+-	Lectura de Elemento Select.
+-	Filtro de campos por marca, año, precio, puertas etc.
+-	Listar resultados según filtro de busqueda.
+-	Mostrar mensaje cuando no hay resultados según filtro de busqueda.
 
 
 
 ## Demo 
 Para mirar la demo del proyecto visita: [Car Finder](https://jsproyecto3.netlify.app/)
 
-![preview](shopping-cart-java-script.webp)
+![preview](car-finder.webp)
 <br>
 ## **Construido con 🛠️**
 
