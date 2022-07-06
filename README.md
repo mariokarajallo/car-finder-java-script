@@ -1,4 +1,5 @@
 # Car Finder 🚗🔍
+_Buscador y filtro en tiempo real de automóviles_
 -	Elemento Select de años.
 -	Lectura de Elemento Select.
 -	Filtro de campos por marca, año, precio, puertas etc.
