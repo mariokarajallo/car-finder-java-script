@@ -1,14 +1,14 @@
 # Car Finder 🚗🔍
-_Listado de productos con opción de agregar al carrito de compras_
--	lectura de datos de ítem seleccionados.
--	Mostrar en el carrito los ítems
--	Actualizar cantidad de ítems agregados.
--	Eliminar un ítem.
--	Vaciar carrito.
+-	Elemento Select de años.
+-	Lectura de Elemento Select
+-	Filtro de campos por marca, año, precio, puertas,
+-	Listar resultados según filtro.
+-	Mostrar mensaje cuando no hay resultados según filtro.
+
 
 
 ## Demo 
-Para mirar la demo del proyecto visita: [Shopping Cart](https://jsproyecto1.netlify.app/)
+Para mirar la demo del proyecto visita: [Car Finder](https://jsproyecto3.netlify.app/)
 
 ![preview](shopping-cart-java-script.webp)
 <br>
