@@ -28,7 +28,7 @@ Para mirar la demo del proyecto visita: [Car Finder](https://jsproyecto3.netlify
 
 
 ## **Licencia 📄**
-Este proyecto está bajo MIT License - mira el archivo [LICENSE.md](https://github.com/mariokarajallo/shopping-cart-java-script/blob/main/LICENSE.md) para detalles
+Este proyecto está bajo MIT License - mira el archivo [LICENSE.md](https://github.com/mariokarajallo/car-finder-java-script/blob/main/LICENSE) para detalles
 
 ## **Expresiones de Gratitud 🎁**
 - Comenta a otros sobre este proyecto para aprender más sobre Java Script 📢
