@@ -14,14 +14,14 @@ Para mirar la demo del proyecto visita: [Car Finder](https://jsproyecto3.netlify
 ![preview](car-finder.webp)
 <br>
 
-**Características**
+## Características
 
 - **Filtrado dinámico:** Permite filtrar la lista de autos por marca, año, precio mínimo/máximo, número de puertas, transmisión y color.
 - **Interfaz ligera:** HTML y CSS simples para mostrar resultados en el navegador sin dependencias.
 - **Datos embebidos:** Los autos se leen desde `js/db.js` como un array de objetos.
 - **Actualización instantánea:** Al cambiar cualquier filtro, los resultados se actualizan automáticamente.
 
-**Tecnologías utilizadas**
+## Tecnologías utilizadas
 
 - **HTML5**: estructura básica de la página (`index.html`).
 - **CSS**: estilos en `css/app.css`, `css/normalize.css`, `css/skeleton.css`.
@@ -32,7 +32,7 @@ Para mirar la demo del proyecto visita: [Car Finder](https://jsproyecto3.netlify
 - Requisitos: un navegador moderno (Chrome, Firefox, Edge, Safari).
 - Instalación: clona o descarga el repositorio y abre `index.html` en tu navegador. No necesita servidor ni instalación de dependencias.
 
-**Cómo funciona**
+## Cómo funciona
 
 - Al cargar la página, el script muestra todos los autos definidos en `js/db.js`.
 - El select de `year` se genera dinámicamente desde el año actual hacia atrás (10 años).
@@ -46,7 +46,7 @@ Para mirar la demo del proyecto visita: [Car Finder](https://jsproyecto3.netlify
 - Para `minimo` y `maximo` (precio), los valores provienen de inputs y la comparación se realiza usando coerción numérica implícita en JavaScript (`auto.precio >= minimo`).
 - Si no hay resultados para la combinación de filtros, se muestra un mensaje de "No hay resultados intente otra busqueda".
 
-**Estructura de archivos**
+## Estructura de archivos
 
 ```bash
 car-finder-java-script/
@@ -71,20 +71,22 @@ car-finder-java-script/
 - `README.md`: Documentación del proyecto.
 - `LICENSE`: Archivo de licencia del proyecto.
 
-**Contribuciones**
+## Contribuciones
 
 - Las contribuciones son bienvenidas. Para aportar:
 	- Haz un fork del repositorio.
 	- Crea una rama (`feature/mi-mejora`).
 	- Envía un pull request describiendo los cambios.
 
-**Créditos**
+## Créditos
 
-- Proyecto original del curso "JavaScript Moderno" por Juan (adaptado/ejemplificado en este repositorio).
+- **Juan Pablo De la Torre Valdez** - Instructor y autor del contenido del curso - [Codigo Con Juan](https://codigoconjuan.com/).
+- **Mario Karajallo** - Implementación del proyecto y mantenimiento - [Mario Karajallo](https://karajallo.com).
 
-**Licencia**
+## Licencia
 
-- Este proyecto está bajo la licencia especificada en el archivo `LICENSE`.
+Este proyecto está bajo MIT License. 
+Consulta el archivo `LICENSE` para más detalles.
 
 ---
 
